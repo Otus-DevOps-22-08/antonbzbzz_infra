@@ -1,0 +1,7 @@
+{
+   	"folder_id": "b1gicpr6ono048vv1ld2",
+	"image_name": "reddit-base-{{timestamp}}",
+	"service_account_key_file": "key.json",
+	"source_image_family": "ubuntu-1604-lts",
+	"ssh_username": "ubuntu"
+}
